@@ -6,10 +6,142 @@
   <component name="ChangeListManager">
     <list default="true" id="beb140cf-3459-4709-a1bb-b3d857fb7081" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OhshieMathGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OhshieMathGame/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/OhshieMathGame/GameController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OhshieMathGame/GameController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OhshieMathGame/GameModes/CareerGameMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OhshieMathGame/GameModes/CareerGameMode.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OhshieMathGame/InfiniteGameModeSettings/MaxNumberConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OhshieMathGame/InfiniteGameModeSettings/MaxNumberConfiguration.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OhshieMathGame/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OhshieMathGame/Program.cs" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/AnEvilPenguin.MathGame/ConsoleMathsGame.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnEvilPenguin.MathGame/ConsoleMathsGame/ConsoleMathsGame.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnEvilPenguin.MathGame/ConsoleMathsGame/GameEngine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnEvilPenguin.MathGame/ConsoleMathsGame/Helpers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnEvilPenguin.MathGame/ConsoleMathsGame/Menu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnEvilPenguin.MathGame/ConsoleMathsGame/Models/Game.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnEvilPenguin.MathGame/ConsoleMathsGame/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnEvilPenguin.MathGame/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolejarz.MathGame/Kolejarz.MathGame.ConsoleRunner/Kolejarz.MathGame.ConsoleRunner.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolejarz.MathGame/Kolejarz.MathGame.ConsoleRunner/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolejarz.MathGame/Kolejarz.MathGame.GameEngine/Game.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolejarz.MathGame/Kolejarz.MathGame.GameEngine/Guess.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolejarz.MathGame/Kolejarz.MathGame.GameEngine/Kolejarz.MathGame.GameEngine.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolejarz.MathGame/Kolejarz.MathGame.GameEngine/Operation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolejarz.MathGame/Kolejarz.MathGame.GameEngine/Puzzle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolejarz.MathGame/Kolejarz.MathGame.GameEngine/PuzzleProviders/EasyPuzzleProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolejarz.MathGame/Kolejarz.MathGame.GameEngine/PuzzleProviders/HardPuzzleProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolejarz.MathGame/Kolejarz.MathGame.GameEngine/PuzzleProviders/IPuzzleProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolejarz.MathGame/Kolejarz.MathGame.GameEngine/PuzzleProviders/IntermediatePuzzleProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolejarz.MathGame/Kolejarz.MathGame.GameEngine/PuzzleProviders/PuzzleProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolejarz.MathGame/Kolejarz.MathGame.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathGame.4r73m190r0s/MathGame.4r73m190r0s.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathGame.4r73m190r0s/MathGame.4r73m190r0s/GameEngine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathGame.4r73m190r0s/MathGame.4r73m190r0s/Helpers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathGame.4r73m190r0s/MathGame.4r73m190r0s/MathGame.4r73m190r0s.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathGame.4r73m190r0s/MathGame.4r73m190r0s/Menu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathGame.4r73m190r0s/MathGame.4r73m190r0s/Models/Game.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathGame.4r73m190r0s/MathGame.4r73m190r0s/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinghxRaj.MathGame/Display.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinghxRaj.MathGame/MathGame/AddGame.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinghxRaj.MathGame/MathGame/DivideGame.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinghxRaj.MathGame/MathGame/MathGame.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinghxRaj.MathGame/MathGame/MultiplyGame.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinghxRaj.MathGame/MathGame/SubtractGame.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinghxRaj.MathGame/MathGameController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinghxRaj.MathGame/MathGameHistory.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinghxRaj.MathGame/Option.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinghxRaj.MathGame/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinghxRaj.MathGame/SinghxRaj.MathGame.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinghxRaj.MathGame/SinghxRaj.MathGame.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThePortugueseMan.MathGame/MathGame/MathGame.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThePortugueseMan.MathGame/MathGame/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThePortugueseMan.MathGame/MathGameApp.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhinav06.MathGame/ArithmeticFactories/AdditionFactory.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhinav06.MathGame/ArithmeticFactories/ArithmeticFactory.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhinav06.MathGame/ArithmeticFactories/DivisionFactory.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhinav06.MathGame/ArithmeticFactories/IArithmeticFactory.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhinav06.MathGame/ArithmeticFactories/MultiplicationFactory.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhinav06.MathGame/ArithmeticFactories/SubtractionFactory.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhinav06.MathGame/Entities/HistoryRecord.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhinav06.MathGame/Entities/Level.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhinav06.MathGame/Entities/Operation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhinav06.MathGame/Entities/Question.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhinav06.MathGame/Helpers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhinav06.MathGame/MathGame.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhinav06.MathGame/MathGame.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhinav06.MathGame/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhinav06.MathGame/QuizManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abhinav06.MathGame/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anajmowicz.MathGame/anajmowicz.MathGame.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anajmowicz.MathGame/anajmowicz.MathGame/GameEngine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anajmowicz.MathGame/anajmowicz.MathGame/Helpers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anajmowicz.MathGame/anajmowicz.MathGame/Menu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anajmowicz.MathGame/anajmowicz.MathGame/Models/Game.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anajmowicz.MathGame/anajmowicz.MathGame/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anajmowicz.MathGame/anajmowicz.MathGame/anajmowicz.MathGame.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/MathGame.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/MathGame/AdditionEngine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/MathGame/AdditionLevels.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/MathGame/DivisionEngine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/MathGame/DivisionLevels.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/MathGame/GameEngine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/MathGame/Helpers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/MathGame/MathGame.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/MathGame/Menu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/MathGame/Models/Game.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/MathGame/MultiplicationEngine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/MathGame/MultiplicationLevels.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/MathGame/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/MathGame/SubtractionEngine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chernoAlieu.MathGame/MathGame/SubtractionLevels.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edVaudin.MathGame/Console.MathGame.edvaudin.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edVaudin.MathGame/Console.MathGame.edvaudin.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edVaudin.MathGame/ExerciseManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edVaudin.MathGame/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edVaudin.MathGame/UserController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edVaudin.MathGame/UserInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edVaudin.MathGame/Validator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edVaudin.MathGame/Viewer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kimfom01.MathGame/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kimfom01.MathGame/MathGame.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kimfom01.MathGame/MathGame/Controllers/GameController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kimfom01.MathGame/MathGame/Controllers/Operation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kimfom01.MathGame/MathGame/MathGame.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kimfom01.MathGame/MathGame/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kimfom01.MathGame/MathGame/Services/Calculator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kimfom01.MathGame/MathGame/UserInput/Input.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kimfom01.MathGame/MathGame/Validations/InputValidation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kimfom01.MathGame/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kraven88.MathGame/Console.MathGame.kraven88.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kraven88.MathGame/Console.MathGame.kraven88.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kraven88.MathGame/GameLogic.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kraven88.MathGame/Models/Equasion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kraven88.MathGame/Models/GameEntry.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kraven88.MathGame/NumbersGenerator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kraven88.MathGame/NumbersGeneratorExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kraven88.MathGame/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kraven88.MathGame/UI/Menu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kraven88.MathGame/UI/UserMessages.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathGame.MartySenpai/mathGame.MartySenpai.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathGame.MartySenpai/mathGame.MartySenpai/GameEngine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathGame.MartySenpai/mathGame.MartySenpai/Helpers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathGame.MartySenpai/mathGame.MartySenpai/Menu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathGame.MartySenpai/mathGame.MartySenpai/Models/Game.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathGame.MartySenpai/mathGame.MartySenpai/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathGame.MartySenpai/mathGame.MartySenpai/mathGame.MartySenpai.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s-smans.MathGame/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s-smans.MathGame/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s-smans.MathGame/MathGame.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s-smans.MathGame/MathGame/Game.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s-smans.MathGame/MathGame/GameEngine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s-smans.MathGame/MathGame/Helper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s-smans.MathGame/MathGame/MathGame.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s-smans.MathGame/MathGame/Menu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s-smans.MathGame/MathGame/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s-smans.MathGame/README.md" beforeDir="false" />
+>>>>>>> 4a58e16 (reset)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +160,22 @@
       </set>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="GitHub/main" />
+  </component>
+>>>>>>> 4a58e16 (reset)
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
+<<<<<<< HEAD
+=======
+    <option name="UPDATE_TYPE" value="REBASE" />
+>>>>>>> 4a58e16 (reset)
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;history&quot;: [
@@ -42,14 +184,21 @@
     }
   ],
   &quot;lastFilter&quot;: {
+<<<<<<< HEAD
     &quot;state&quot;: &quot;CLOSED&quot;
+=======
+>>>>>>> 4a58e16 (reset)
   }
 }</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="fcb7cd6f-68c0-4cb5-99c1-1ec0d65496a5" />
+<<<<<<< HEAD
         <option name="url" value="https://github.com/ohshie/CodeReviews.Console.MathGame" />
+=======
+        <option name="url" value="https://github.com/ohshie/CodeReviews.Console.MathGame.git" />
+>>>>>>> 4a58e16 (reset)
       </UrlAndAccount>
     </option>
   </component>
@@ -143,6 +292,10 @@
       <workItem from="1677074199799" duration="16000" />
       <workItem from="1677075820987" duration="1983000" />
       <workItem from="1677078063295" duration="4863000" />
+<<<<<<< HEAD
+=======
+      <workItem from="1677090967026" duration="1680000" />
+>>>>>>> 4a58e16 (reset)
     </task>
     <task id="LOCAL-00001" summary="Shuffled variables like score and effectiveness from gameplay to program as they felt more related to &quot;main program&quot;, than &quot;gameplay&quot;">
       <created>1676866012620</created>
@@ -199,7 +352,23 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
             <State />
+=======
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+>>>>>>> 4a58e16 (reset)
           </value>
         </entry>
       </map>
