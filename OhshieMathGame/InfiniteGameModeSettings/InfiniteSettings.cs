@@ -52,6 +52,6 @@ public class InfiniteSettings
     {
         currentGame.OperatorsInPlay = OperatorsConfiguration._tempAllowedOperators;
         currentGame.AmountOfVariables = EquationLengthConfiguration.TempVariables;
-        currentGame.MaxNumber = MaxNumberConfiguration._tempMaxNumber;
+        currentGame.MaxNumber = MaxNumberConfiguration.TempMaxNumber;
     }
 }

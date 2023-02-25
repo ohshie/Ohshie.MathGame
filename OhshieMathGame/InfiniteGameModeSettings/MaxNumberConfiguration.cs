@@ -2,7 +2,7 @@ namespace OhshieMathGame.InfiniteGameModeSettings;
 
 public class MaxNumberConfiguration
 {
-    public static int _tempMaxNumber = 11;
+    public static int TempMaxNumber = 11;
 
     // method to adjust how big numbers can be in equations
     public static void AdjustMaximumAllowedNumber()
@@ -12,10 +12,10 @@ public class MaxNumberConfiguration
                           "Number must be above 0");
         while (true)
         {
-            _tempMaxNumber = int.Parse(Console.ReadLine());
+            TempMaxNumber = int.Parse(Console.ReadLine());
             // need this adjustment as "random" range does not include actuall last number in range
-            _tempMaxNumber += 1;
-            if (_tempMaxNumber > 0)
+            TempMaxNumber += 1;
+            if (TempMaxNumber > 0)
             {
                 return;
             }

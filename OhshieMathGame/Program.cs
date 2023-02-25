@@ -1,6 +1,4 @@
-﻿using OhshieMathGame;
-
-class Program
+﻿class Program
 {
     public static ConsoleKey MenuOperator;
     private static void MainMenu()

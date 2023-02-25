@@ -33,7 +33,7 @@ public class CareerGameMode
             case (1):
             {
                 AdjustOperatorsInPlay();
-                _gameController.MaxNumber = 6;
+                _gameController.MaxNumber = 10;
                 _gameController.AmountOfVariables = 2;
                 DifficultyLevel = 1;
                 break;
@@ -41,7 +41,7 @@ public class CareerGameMode
             case (6):
             {
                 AdjustOperatorsInPlay();
-                _gameController.MaxNumber = 11;
+                _gameController.MaxNumber = 20;
                 _gameController.AmountOfVariables = 3;
                 DifficultyLevel = 2;
                 break;
@@ -56,13 +56,13 @@ public class CareerGameMode
             case (16):
             {
                 AdjustOperatorsInPlay();
-                _gameController.MaxNumber = 20;
                 _gameController.AmountOfVariables = 5;
                 DifficultyLevel = 4;
                 break;
             }
             case (21):
             {
+                _gameController.MaxNumber = 50;
                 DifficultyLevel = 5;
                 break;
             }
